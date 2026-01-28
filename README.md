@@ -33,9 +33,9 @@ Customers were segmented using RFM scores to provide a structured and interpreta
 Customer segments demonstrate distinct purchase behaviors, particularly in terms of purchase timing and frequency.
 
 Notably:
-	- Loyal customers show the longest average time between orders
-	- At-risk customers have the shortest purchase intervals
-	- Each segment shows different levels of interest across product categories
+ - Loyal customers show the longest average time between orders
+ - At-risk customers have the shortest purchase intervals
+ - Each segment shows different levels of interest across product categories
 
 These differences suggest that customer segments should not be treated uniformly and require segment-specific engagement approaches.
 
