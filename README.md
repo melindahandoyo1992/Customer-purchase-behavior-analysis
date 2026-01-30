@@ -1,5 +1,5 @@
 
-# Customer Purchase Analysis Behavior
+# Customer Purchase Behavior Analysis
 
 ## Project Overview
 
