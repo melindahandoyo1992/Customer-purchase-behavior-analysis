@@ -45,7 +45,7 @@ These differences suggest that customer segments should not be treated uniformly
 
   -	Customer strategies should be tailored based on the needs of each segment
   -	At-risk customers require targeted engagement to prevent churn
-  -	Potential loyalists may benefit from re-engagement strategies to move into the Loyal segment
+  - Potential Loyalists may benefit from onboarding and habit-forming engagement strategies to transition into the Loyal segment.
   -	Loyal customers should be maintained and gradually developed into Champion customers through retention strategies
   -	Champion customers should be prioritized through rewards and loyalty programs
 
