@@ -32,10 +32,12 @@ Customers were segmented using RFM scores to provide a structured and interpreta
 
 Customer segments demonstrate distinct purchase behaviors, particularly in terms of purchase timing and frequency.
 
-Notably:
- - Loyal customers show the longest average time between orders
- - At-risk customers have the shortest purchase intervals
- - Each segment shows different levels of interest across product categories
+Notably :
+
+-At-risk customers exhibit the longest average time between orders, indicating irregular purchase cadence and declining engagement despite prior activity.
+- New/recent customers show the shortest days between orders, reflecting early-stage engagement rather than sustained frequency.
+- Champions combine the highest order frequency with relatively stable purchase cadence.
+- Purchase preferences vary across segments, suggesting different product affinities and engagement patterns.
 
 These differences suggest that customer segments should not be treated uniformly and require segment-specific engagement approaches.
 
